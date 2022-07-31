@@ -1,4 +1,7 @@
 # UFOs
+
+Link to GitHub Pages: https://hjamiec02.github.io/UFOs/
+
 ## Overview of Project
 For this project, I created a webpage and dynamic table that filters and displays information on UFO sitings. The table allows users to filter for multiple criteria at the same time, based on the date, city, state, country, and shape.
 
